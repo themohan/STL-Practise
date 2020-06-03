@@ -1,0 +1,29 @@
+https://www.geeksforgeeks.org/the-c-standard-template-library-stl/
+
+You will be implementing the containers and the associated functions with that container. Two containers every day.
+
+03/06/2020 - Arrays and Vectors
+04/06/2020   List and Forward List
+05/06/2020 - Queue and Deque
+06/06/2020 - Priority Queue and Stack
+07/06/2020 - Set and Multiset
+08/06/2020 - Map and Multimap
+09/06/2020 - Priority Queue
+10/06/2020 - Unordered_Set and Unordered_Multiset
+11/06/2020 - Unordered_Map and Unordered_Multimap
+
+
+What you have to do:
+
+	1.You are to implement two containers every day using the appropriate headers for that container.
+	Next, you will have to use all the functions/methods that are associated with that container
+	and demonstrate the usage of those functions with that container (Ex. adding elements to that container,
+	removing elements from that container, searching for an element in that container etc..)
+
+	2. You have to add your solutions to your folder, and push them to your fork, and place a Pull Request to the master.
+	
+	3. Please do not try to cheat your way through these exercises. We will know if you cheated.
+
+
+
+
